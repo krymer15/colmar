@@ -295,3 +295,19 @@ nav a {
     font-size: 1.75rem;
     color: gray;
 }
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 24px;
+    font-size: 1.5rem;
+    color: gray;
+}
+
+footer .terms {
+    padding-right: 16px;
+}
+
+footer .terms span {
+    padding-left: 8px;
+}
